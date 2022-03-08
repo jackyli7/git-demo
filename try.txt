@@ -1,0 +1,2 @@
+the world is wonderful!
+.gitignore设置要忽略的文件
